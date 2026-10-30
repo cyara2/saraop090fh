@@ -46,7 +46,7 @@ defaults:
 
 env:
   RDP_USER: rdp
-  RDP_PASS: Rdp@1234
+  RDP_PASS: "AhmadServer@2026"
   TS_HOSTNAME: ahmad
 
 jobs:
